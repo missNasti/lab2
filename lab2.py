@@ -1,7 +1,6 @@
 from spyre import server
 
 import pandas as pd
-import urllib2
 import matplotlib.pyplot as plt
 
 class StockExample(server.App):
